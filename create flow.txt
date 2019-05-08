@@ -1,0 +1,5 @@
+1. create a repository on github;
+2. clone URL use sorcetree;
+3. copy files to local repository;
+4. temporary storage and add description
+5. push to remote!
