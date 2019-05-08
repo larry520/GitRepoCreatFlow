@@ -5,5 +5,9 @@
 5. push to remote!
 
 
+<<<<<<< .merge_file_a10976
 
 add new line for history call back
+=======
+jump jump jump biubiubiu!
+>>>>>>> .merge_file_a08332
